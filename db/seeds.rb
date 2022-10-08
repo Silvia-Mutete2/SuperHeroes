@@ -32,12 +32,12 @@ Power.create! ([
         power_id: 3
     },
     {
-        strength: "Great",
+        strength: "Strong",
         hero_id: 4,
         power_id: 3
     },
     {
-        strength: "Good",
+        strength: "Weak",
         hero_id: 2,
         power_id: 4
     }
